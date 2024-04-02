@@ -1,0 +1,178 @@
+@media screen and  (max-width:550px) {
+body{
+    width: 100vw;
+    box-sizing: border-box;
+}
+.cage1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.menu1{
+    display: block;
+    padding-left: 40%;
+    padding-top: 3%;
+}
+.menu{
+    display: none ;
+    width: 60vw;
+}
+.logo{
+    padding-bottom: 2%;
+}
+.cage2{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50vh;
+}
+.ecrit{
+    width: 100%;
+    height: 10vh;
+}
+.vis{
+  font-size: small;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+.cage3{
+    height: 50vh;
+}
+.cage31{
+    font-size: 40%;
+    height: 25vh;
+}
+.cage32{
+    font-size: 40%;
+    height: 25vh;
+}
+
+.image{
+   
+    width: 5%;
+   
+}
+.ecritures{
+    justify-content: center;
+}
+h1{
+ font-size: 100%;
+}
+p{
+    font-size: 70%;
+}
+h3{
+    font-size: 80%;
+}
+#im1{
+    width: 10%;
+}
+.propos{
+    height: 13%;
+    width: 10%;
+}
+#bt{
+    font-size: 45%;
+}
+#vert{
+    font-size: 80%;
+}
+#que{
+    font-size: 80%;
+}
+.cage513{
+    height:auto;
+    background-color: aquamarine;
+}
+.rond11{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+}
+.paragraphe{
+   margin-top: 0%;
+    background-color:bisque ;
+}
+#bi{
+    font-size: 40%;
+}
+.bio1{
+    display: flex;
+    align-items: center;
+
+    gap:15%;
+     font-size: 20%;
+ }
+ .cage611{
+    display: flex;
+    justify-content:right;
+}
+#stra{
+    font-size: 60%;
+}
+#eco{
+    font-size: 70%;
+}
+.cage7{
+    height: 40Vh;
+}
+.cage711{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    width: 50%;
+    height: 5vh;
+}
+.cage8{
+    height: 60vh;
+}
+#inscrire{
+    font-size: 90%;
+}
+#cage8111{
+    font-size: 60%;
+    height: 5vh;
+}
+#cage8112{
+    font-size: 60%;
+    height: 5vh;
+}
+.logo{
+    height: 10vh;
+}
+#imge{
+    height: 4vh;
+}
+#imge1{
+    height: 3vh;
+}
+.cage9{
+    height: 30vh;
+}
+.cage91{
+    height: 22vh;
+}
+.cage911{
+   gap:0.5px 
+}
+.cage10{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.cage621{
+    display: flex;
+    justify-content: center;
+}
+.cage61{
+    
+}
+.cage63{
+    display: flex;
+    flex-direction: column;
+    gap:15px
+}
+}
+  
