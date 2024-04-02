@@ -105,7 +105,7 @@ button{
     height: 40vh;
     width: 30%;
     background-repeat: no-repeat;
-    background-image:  url("../image\ figma/Photo-6.jpg");
+    background-image:  url("image figma/Photo-6.jpg");
     padding-left: 5%;
     background-size: cover;
     background-position: center;
@@ -116,7 +116,7 @@ button{
 .cage32{
     display: flex;
     flex-direction: column;
-    background-image:  url("../image\ figma/32.jpg");
+    background-image:  url("image figma/32.jpg");
      height: 40vh;
      width: 30%;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@ h4{
     background-position: center;
     background-size: cover;
     justify-content: center;
-    background-image:  url("../image\ figma/Background.png");
+    background-image:  url("image figma/Background.png");
     margin-bottom: 5%;
     padding-top: 5%;
 }
@@ -243,7 +243,7 @@ h4{
 }
 .rond1{
     display: flex;
-    background-image:  url("../image\ figma/Chartbloc.png");
+    background-image:  url("image figma/Chartbloc.png");
     background-repeat: no-repeat;
     justify-content: center;
     align-items: center;
@@ -319,7 +319,7 @@ h4{
 }
 .cage71{
     display: flex;
-    background-image: url("../image\ figma/Photo-1.jpg");
+    background-image: url("image figma/Photo-1.jpg");
     height: 60vh;
     width: 35%;
     background-repeat: no-repeat;
@@ -330,7 +330,7 @@ h4{
 }
 .cage72{
     display: flex;
-    background-image:  url("../image\ figma/Photo-2.jpg");
+    background-image:  url("image figma/Photo-2.jpg");
     width: 35%;
     height: 60vh;
     background-repeat: no-repeat;
@@ -341,7 +341,7 @@ h4{
 }
 .cage73{
     display: flex;
-    background-image:  url("../image\ figma/Photo-3.jpg");
+    background-image:  url("image figma/Photo-3.jpg");
      width: 35%;
      height: 60vh;
     background-repeat: no-repeat;
@@ -361,7 +361,7 @@ h4{
 }
 .cage81{
     display: flex;
-    background-image: url("../image\ figma/Photo-20.jpg");
+    background-image: url("image figma/Photo-20.jpg");
     background-repeat: no-repeat;
     height: 50vh;
     width: 100%;
@@ -452,7 +452,7 @@ h4{
   
 }
 .cage11{
-    background-image:  url("../image\ figma/bac.png");
+    background-image:  url("image figma/bac.png");
     height: 80vh;
     background-repeat: no-repeat;
     display: flex;
@@ -583,7 +583,7 @@ h4{
     height: 80vh;
 }
 .cage11a{
-    background-image:  url("../image\ figma/Banner Image.png");
+    background-image:  url("image figma/Banner Image.png");
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
@@ -643,7 +643,7 @@ h4{
    
 }
 .photosA{
-    background-image: url("../image\ figma/Photo-17.jpg");;
+    background-image: url("image figma/Photo-17.jpg");;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -660,7 +660,7 @@ h4{
     margin-top: 40px;
 }
 .cage11b{
-    background-image:  url("../image\ figma/Background.jpg");
+    background-image:  url("image figma/Background.jpg");
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
@@ -720,7 +720,7 @@ h4{
 .identifiant2{
 }
 .cage12{
-    background-image: url("../image\ figma/dernier.png");
+    background-image: url("image figma/dernier.png");
     height: 120vh;
     background-repeat: no-repeat;
     width: 100%;
